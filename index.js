@@ -4,3 +4,5 @@ inner = () => {
 }
 
 console.log('what are you doing here.can you here me.for doing this things');
+
+alert('who are you');
